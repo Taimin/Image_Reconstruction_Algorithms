@@ -1,2 +1,2 @@
-# root
-matlab code
+# Image Reconstruction
+Image reconstruction using matlab
