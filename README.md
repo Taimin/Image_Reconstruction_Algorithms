@@ -1,2 +1,2 @@
 # Image Reconstruction
-Image reconstruction using matlab
+Image reconstruction algorithms implemented using matlab
